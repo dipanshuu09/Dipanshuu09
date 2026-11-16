@@ -20,7 +20,7 @@
 - Semester 1 lab projects and building daily problem-solving habits
 
 ## Connect With Me
-- LinkedIn : https://www.linkedin.com/in/dipanshu-kumar-969121431?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- LinkedIn : https://www.linkedin.com/public-profile/settings/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact_info%3BXK9nq8l2RIiH0YPAWXXjvA%3D%3D
 - Email : dipanshu0178@gmail.com
 
 <!--
