@@ -23,12 +23,21 @@
 - LinkedIn : www.linkedin.com/in/dipanshu-kumar-969121431
 - Email : dipanshu0178@gmail.com
 - 
-### 📊 GitHub Activity
+### 📊 GitHub Analytics & Contribution Streak
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=dipanshuu09&show_icons=true&theme=tokyonight&hide_border=true" alt="Dipanshu's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipanshuu09&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dipanshuu09&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipanshuu09&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=dipanshuu09&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dipanshuu09&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</div>
+
 <!--
 **dipanshuu09/Dipanshuu09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
